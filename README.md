@@ -1,25 +1,28 @@
-<h1 align="center">Mostafij Emon</h1>
-
-<p align="center">Full Stack Engineer &nbsp;·&nbsp; FastAPI · PostgreSQL · React · TypeScript &nbsp;·&nbsp; Dhaka, Bangladesh</p>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:0077b6,100:00d4aa&height=210&section=header&text=Mostafij%20Emon&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
+</div>
 
 <p align="center">
-<a href="mailto:mustafiz.emon194@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://mostafij.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://mostafij.vercel.app"><img src="https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=700&color=00D4AA&center=true&vCenter=true&width=820&lines=Python+backends+that+survive+production;FastAPI+%2B+PostgreSQL+%2B+React+%2B+TypeScript;Typed+interfaces%2C+real+tests%2C+clean+deploys" alt="Typing SVG"/>
 </p>
 
-```jsonc
-// ~ $ cat mostafij.json
-{
-  "role":     "Full Stack Engineer",
-  "company":  "Acciptra",
-  "location": "Dhaka, Bangladesh — remote",
-  "building": "Sanket — job-market intelligence service",
-  "shipping": "japanhands — multi-tenant e-commerce platform",
-  "open_to":  ["senior backend roles", "full-stack roles", "contract work"],
-  "reach_me": "mustafiz.emon194@gmail.com"
-}
-```
+<p align="center">
+<a href="mailto:mustafiz.emon194@gmail.com">
+<img src="https://img.shields.io/badge/Email-mustafiz.emon194-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://mostafij.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-mostafij.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://mostafij.vercel.app">
+<img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/Currently-building%20Sanket-0077B6?style=flat-square&logo=rocket&logoColor=white" alt="Currently"/>
+<img src="https://img.shields.io/badge/Open%20to-senior%20backend%20roles-00D4AA?style=flat-square&logo=handshake&logoColor=white" alt="Open to"/>
+<img src="https://img.shields.io/badge/Remote-friendly-6E7681?style=flat-square&logo=googlemeet&logoColor=white" alt="Remote"/>
+</p>
 
 ---
 
@@ -177,3 +180,6 @@ Open to **senior backend / full-stack roles** (remote or Dhaka) and selective co
 <i>"Ship it, then make it observable."</i>
 </p>
 
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0077b6,100:0d1117&height=120&section=footer" width="100%"/>
+</div>
