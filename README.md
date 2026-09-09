@@ -11,10 +11,10 @@
 <img src="https://img.shields.io/badge/Email-mustafiz.emon194-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://mostafij.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-mostafij.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://mostafij.vercel.app">
-<img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+<img src="https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
 </p>
 
