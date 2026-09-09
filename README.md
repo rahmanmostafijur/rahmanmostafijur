@@ -19,8 +19,7 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/Currently-building%20Sanket-0077B6?style=flat-square&logo=rocket&logoColor=white" alt="Currently"/>
-<img src="https://img.shields.io/badge/Open%20to-senior%20backend%20roles-00D4AA?style=flat-square&logo=handshake&logoColor=white" alt="Open to"/>
+<img src="https://img.shields.io/badge/Open%20to-frontend%20%C2%B7%20backend%20%C2%B7%20full--stack-00D4AA?style=flat-square&logo=handshake&logoColor=white" alt="Open to"/>
 <img src="https://img.shields.io/badge/Remote-friendly-6E7681?style=flat-square&logo=googlemeet&logoColor=white" alt="Remote"/>
 </p>
 
@@ -159,7 +158,7 @@ Final-year IoT + ML project. An Arduino node with MQ-2, MQ-135 and LM35 sensors 
 
 ## 🤝 Let's Connect
 
-Open to **senior backend / full-stack roles** (remote or Dhaka) and selective contract work on Python APIs and React front ends. Always happy to talk about API design, Postgres, or getting things to production.
+Open to **frontend, backend and full-stack roles** (remote or Dhaka), plus selective contract work on Python APIs and React front ends. Always happy to talk about API design, Postgres, or getting things to production.
 
 <p align="center">
 <a href="mailto:mustafiz.emon194@gmail.com">
