@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d1117,45:0077b6,100:00d4aa&height=210&section=header&text=Mostafij%20Emon&fontSize=50&fontColor=ffffff&fontAlignY=36&desc=Full%20Stack%20Engineer%20%7C%20Dhaka%2C%20Bangladesh&descAlignY=57&descSize=17&animation=fadeIn" width="100%"/>
+<img src="assets/banner.svg" width="100%" alt="Mostafijur Rahman — Full Stack Engineer"/>
 </div>
 
 <p align="center">
@@ -180,6 +180,3 @@ Open to **senior backend / full-stack roles** (remote or Dhaka) and selective co
 <i>"Ship it, then make it observable."</i>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0077b6,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
