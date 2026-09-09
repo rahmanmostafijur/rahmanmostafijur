@@ -8,7 +8,11 @@ Most of my day is API design, data modelling, and getting things into production
 
 ---
 
-### What I'm building
+### What I build
+
+**japanhands** — e-commerce marketplace *(at Acciptra · private repo)*
+
+A full-stack marketplace for Japanese products, split into three separately-addressable properties — a buyer storefront, a seller dashboard and an admin panel — each its own Vite app on its own subdomain, served through a shared reverse proxy. TypeScript front ends over a Python API, containerised with Docker Compose, with self-hosted object storage for media. Sole engineer on the build.
 
 **Sanket** — job-market intelligence service
 
