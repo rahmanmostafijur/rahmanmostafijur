@@ -11,11 +11,14 @@ Most of my day is API design, data modelling, and getting things into production
 ### What I'm building
 
 **Sanket** — job-market intelligence service
+
 Scheduled ingestion of job postings, LLM extraction into Pydantic schemas, hybrid search over pgvector, async workers on Redis, and a real-time match feed. Deployed to a self-administered VPS with CI/CD, OpenTelemetry traces and Grafana dashboards. *In progress — repo opening soon.*
 
 **[Task Manager](https://github.com/rahmanmostafijur/taskmanager)** — multi-user task app
+
 FastAPI + PostgreSQL API with JWT auth and refresh-token rotation, tags, filtering and search, dashboard aggregates, Alembic migrations and 81 pytest tests. React + TypeScript + Tailwind client, dark mode, fully responsive.
-→ [Live app](https://taskmanagerforyou.vercel.app) · [API docs](https://taskmanager-backend-tclq.onrender.com/docs)
+
+[Live app](https://taskmanagerforyou.vercel.app) · [API docs](https://taskmanager-backend-tclq.onrender.com/docs)
 
 ---
 
