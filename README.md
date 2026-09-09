@@ -36,4 +36,4 @@ FastAPI + PostgreSQL API with JWT auth and refresh-token rotation, tags, filteri
 
 Senior backend / full-stack roles (remote or Dhaka) and selective contract work on Python APIs and React front ends.
 
-📧 [rahman.mostafijur@acciptra.com](mailto:rahman.mostafijur@acciptra.com) · 🌐 [mostafij.vercel.app](https://mostafij.vercel.app)
+📧 [mustafiz.emon194@gmail.com](mailto:mustafiz.emon194@gmail.com) · 🌐 [mostafij.vercel.app](https://mostafij.vercel.app)
