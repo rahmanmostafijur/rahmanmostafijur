@@ -134,6 +134,17 @@ Multi-user task app. FastAPI + PostgreSQL API with JWT auth and refresh-token ro
 <a href="https://github.com/rahmanmostafijur/taskmanager"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
 </p>
 
+### 🌫️ [Air Pollution Monitoring and Forecasting](https://github.com/rahmanmostafijur/air-pollution-monitoring)
+
+Final-year IoT + ML project. An Arduino node with MQ-2, MQ-135 and LM35 sensors streams readings to ThingSpeak, a Bootstrap dashboard shows the live channels alongside current weather, and three classifiers are trained on 4,530 labelled readings - a Keras MLP reached **0.89 accuracy** against a 0.66 majority-class baseline.
+
+<p>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+<img src="https://img.shields.io/badge/IoT-6E7681?style=flat-square" alt="IoT"/>
+</p>
+
 ---
 
 ## 📊 GitHub Analytics
