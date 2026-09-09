@@ -136,6 +136,19 @@ Multi-user task app. FastAPI + PostgreSQL API with JWT auth and refresh-token ro
 
 ---
 
+## 📊 GitHub Analytics
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=rahmanmostafijur&theme=tokyonight&hide_border=true&background=0D1117&ring=00D4AA&fire=FF6B35&currStreakLabel=00D4AA" width="60%" alt="GitHub Streak"/>
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/github/followers/rahmanmostafijur?style=for-the-badge&logo=github&color=181717&labelColor=0D1117" alt="Followers"/>
+<img src="https://img.shields.io/github/last-commit/rahmanmostafijur/taskmanager?style=for-the-badge&logo=git&color=00D4AA&labelColor=0D1117&label=last%20commit" alt="Last commit"/>
+</p>
+
+---
+
 ## 🤝 Let's Connect
 
 Open to **senior backend / full-stack roles** (remote or Dhaka) and selective contract work on Python APIs and React front ends. Always happy to talk about API design, Postgres, or getting things to production.
