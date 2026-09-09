@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00D4AA&center=true&vCenter=true&width=650&lines=Full+Stack+Engineer+%7C+FastAPI+%2B+PostgreSQL+%2B+React" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00D4AA&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+FastAPI+%2B+PostgreSQL+%2B+React" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -133,14 +133,6 @@ Multi-user task app. FastAPI + PostgreSQL API with JWT auth and refresh-token ro
 <a href="https://taskmanager-backend-tclq.onrender.com/docs"><img src="https://img.shields.io/badge/API%20Docs-009688?style=for-the-badge&logo=swagger&logoColor=white" alt="API Docs"/></a>
 <a href="https://github.com/rahmanmostafijur/taskmanager"><img src="https://img.shields.io/badge/Source-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source"/></a>
 </p>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmanmostafijur&theme=tokyo-night&hide_border=true&bg_color=0D1117" width="100%" alt="Contribution Graph"/>
-</div>
 
 ---
 
