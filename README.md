@@ -1,31 +1,25 @@
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0077b6,100:00d4aa&height=220&section=header&text=Mostafij%20Emon&fontSize=52&fontColor=ffffff&animation=fadeIn" width="100%"/>
-</div>
+<h1 align="center">Mostafij Emon</h1>
+
+<p align="center">Full Stack Engineer &nbsp;·&nbsp; FastAPI · PostgreSQL · React · TypeScript &nbsp;·&nbsp; Dhaka, Bangladesh</p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=600&color=00D4AA&center=true&vCenter=true&width=760&lines=Full+Stack+Engineer+%7C+FastAPI+%2B+PostgreSQL+%2B+React" alt="Typing SVG"/>
+<a href="mailto:mustafiz.emon194@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://mostafij.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://mostafij.vercel.app"><img src="https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 </p>
 
-<p align="center">
-<a href="mailto:mustafiz.emon194@gmail.com">
-<img src="https://img.shields.io/badge/Email-mustafiz.emon194-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-<a href="https://mostafij.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-mostafij.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-</a>
-<a href="https://github.com/rahmanmostafijur">
-<img src="https://img.shields.io/badge/GitHub-rahmanmostafijur-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://mostafij.vercel.app">
-<img src="https://img.shields.io/badge/Resume-Download%20CV-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
-</a>
-</p>
-
-<p align="center">
-<img src="https://img.shields.io/badge/Location-Dhaka%2C%20Bangladesh-26A69A?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location"/>
-<img src="https://img.shields.io/badge/Open%20to-Senior%20Backend%20Roles-00D4AA?style=for-the-badge&logo=hackthebox&logoColor=white" alt="Open to work"/>
-<img src="https://komarev.com/ghpvc/?username=rahmanmostafijur&style=for-the-badge&color=00d4aa" alt="Profile Views"/>
-</p>
+```jsonc
+// ~ $ cat mostafij.json
+{
+  "role":     "Full Stack Engineer",
+  "company":  "Acciptra",
+  "location": "Dhaka, Bangladesh — remote",
+  "building": "Sanket — job-market intelligence service",
+  "shipping": "japanhands — multi-tenant e-commerce platform",
+  "open_to":  ["senior backend roles", "full-stack roles", "contract work"],
+  "reach_me": "mustafiz.emon194@gmail.com"
+}
+```
 
 ---
 
@@ -183,6 +177,3 @@ Open to **senior backend / full-stack roles** (remote or Dhaka) and selective co
 <i>"Ship it, then make it observable."</i>
 </p>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4aa,50:0077b6,100:0d1117&height=120&section=footer" width="100%"/>
-</div>
