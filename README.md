@@ -113,6 +113,39 @@ A full-stack e-commerce marketplace for Japanese products, split into three sepa
 <img src="https://img.shields.io/badge/Multi--tenant-6E7681?style=flat-square" alt="Multi-tenant"/>
 </p>
 
+### 📦 [Solmira](https://github.com/rahmanmostafijur/solmira)
+
+Multi-tenant order, inventory and fulfillment platform for B2B distribution: suppliers, catalog, multi-warehouse stock, purchase and customer orders, reservations and shipments. Next.js 16 front end over NestJS services, designed for correctness under concurrency and strict tenant isolation, with an audit trail throughout.
+
+<p>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+<img src="https://img.shields.io/badge/Multi--tenant-6E7681?style=flat-square" alt="Multi-tenant"/>
+</p>
+
+### 🧠 [NexaAI](https://github.com/rahmanmostafijur/NexaAI)
+
+A multilingual business agent that answers in English, Bengali and Banglish. It classifies each question and routes it: read-only Text-to-SQL against PostgreSQL, hybrid vector + keyword retrieval over company documents in pgvector, both together, or plain model knowledge - then validates the evidence and streams a grounded answer with citations.
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/RAG-5C3EE8?style=flat-square" alt="RAG"/>
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
+<img src="https://img.shields.io/badge/Text--to--SQL-FF6F00?style=flat-square" alt="Text-to-SQL"/>
+</p>
+
+### 🎟️ [SupportDesk](https://github.com/rahmanmostafijur/SupportDesk)
+
+Real-time helpdesk: customers open tickets and chat live with agents over WebSockets, managers triage and assign, and a searchable knowledge base deflects repeat questions. FastAPI with async SQLAlchemy and Alembic on PostgreSQL 16, React 19 + TanStack Query client, Docker Compose behind nginx.
+
+<p>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=flat-square&logo=socketdotio&logoColor=white" alt="WebSockets"/>
+<img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React 19"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+</p>
+
 ### 🎯 [Sanket](https://github.com/rahmanmostafijur/Sanket) &nbsp;<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square" alt="in progress"/>
 
 A job-market intelligence service: scheduled ingestion of job postings, LLM extraction into validated Pydantic schemas, and hybrid keyword + vector search over pgvector with async workers on Redis. *Architecture designed and documented; the ingestion pipeline is being built now.*
