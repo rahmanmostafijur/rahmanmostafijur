@@ -13,6 +13,9 @@
 <a href="https://mostafij.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
 </a>
+<a href="https://linkedin.com/in/mostafijemon00">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
 <a href="https://mostafij.vercel.app">
 <img src="https://img.shields.io/badge/Resume-FF6B35?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
 </a>
@@ -69,6 +72,7 @@ I care about typed interfaces, tests that actually run in CI, and services you c
 <p align="center">
 <a href="#" title="TypeScript"><img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="50" height="50"/></a>
 <a href="#" title="React"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50"/></a>
+<a href="#" title="Next.js"><img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="50" height="50"/></a>
 <a href="#" title="Vite"><img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="50" height="50"/></a>
 <a href="#" title="TailwindCSS"><img src="https://skillicons.dev/icons?i=tailwind" alt="TailwindCSS" width="50" height="50"/></a>
 <a href="#" title="HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="50" height="50"/></a>
@@ -109,15 +113,14 @@ A full-stack e-commerce marketplace for Japanese products, split into three sepa
 <img src="https://img.shields.io/badge/Multi--tenant-6E7681?style=flat-square" alt="Multi-tenant"/>
 </p>
 
-### 🎯 Sanket &nbsp;<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square" alt="in progress"/>
+### 🎯 [Sanket](https://github.com/rahmanmostafijur/Sanket) &nbsp;<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square" alt="in progress"/>
 
-A job-market intelligence service. Scheduled ingestion of job postings, LLM extraction into Pydantic schemas, hybrid search over pgvector, async workers on Redis, and a real-time match feed - deployed to a self-administered VPS with CI/CD, OpenTelemetry traces and Grafana dashboards. *Repo opening soon.*
+A job-market intelligence service: scheduled ingestion of job postings, LLM extraction into validated Pydantic schemas, and hybrid keyword + vector search over pgvector with async workers on Redis. *Architecture designed and documented; the ingestion pipeline is being built now.*
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OTel"/>
 </p>
 
 ### ✅ [Task Manager](https://github.com/rahmanmostafijur/taskmanager)
@@ -166,6 +169,9 @@ Open to **frontend, backend and full-stack roles** (remote or on-site in Dhaka),
 </a>
 <a href="https://mostafij.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://linkedin.com/in/mostafijemon00">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 <a href="https://github.com/rahmanmostafijur">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
