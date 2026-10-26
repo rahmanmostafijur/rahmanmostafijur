@@ -168,7 +168,7 @@ Real-time helpdesk: customers open tickets and chat live with agents over WebSoc
 
 ### 🎯 [Sanket](https://github.com/rahmanmostafijur/Sanket) &nbsp;<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square" alt="in progress"/>
 
-A job-market intelligence service. **Ingestion is live:** a GitHub Actions schedule pulls postings from public job feeds every 6 hours into PostgreSQL on Neon, with a content-hash gate so duplicates never land. SQLAlchemy 2.0 models with Alembic migrations. *In progress:* LLM extraction into validated Pydantic schemas. *Next:* hybrid keyword + vector search over pgvector.
+A job-market intelligence service. **Ingestion is live:** a GitHub Actions schedule pulls postings from public job feeds every 6 hours into PostgreSQL on Neon, using an idempotent upsert on a (source, source_id) unique constraint and a SHA-256 content hash that records when a posting actually changes. SQLAlchemy 2.0 models with Alembic migrations. *In progress:* LLM extraction into validated Pydantic schemas. *Next:* hybrid keyword + vector search over pgvector.
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
