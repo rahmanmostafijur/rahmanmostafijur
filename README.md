@@ -1,5 +1,5 @@
 <div align="center">
-<img src="assets/banner.svg" width="100%" alt="Mostafijur Rahman — Full Stack Engineer"/>
+<img src="assets/banner.svg" width="100%" alt="Mostafijur Rahman — Software Engineer"/>
 </div>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-<a href="mailto:mustafiz.emon194@gmail.com">
-<img src="https://img.shields.io/badge/Email-mustafiz.emon194-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+<a href="mailto:mostafijrahman.swe@gmail.com">
+<img src="https://img.shields.io/badge/Email-mostafijrahman.swe-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
 </a>
 <a href="https://mostafij.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
@@ -30,14 +30,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Full Stack Engineer** building production Python backends and the TypeScript front ends that sit on top of them. I work remotely from Bangladesh at **[Acciptra](https://github.com/acciptra)**, where I'm the sole engineer on a multi-tenant e-commerce platform.
+I'm a **Software Engineer** building production Python backends and the TypeScript front ends that sit on top of them. I work remotely from Bangladesh at **[Acciptra](https://github.com/acciptra)**, a Japan-based company, where I'm the sole engineer on its manga e-commerce marketplace.
 
 **What I focus on:**
 
 <ul>
 <li><b>API design & data modelling</b> - FastAPI services, PostgreSQL schemas, migrations that run cleanly</li>
 <li><b>Auth & security</b> - JWT with refresh-token rotation, single-use tokens, per-user data isolation</li>
-<li><b>Shipping to production</b> - Docker, GitHub Actions, self-administered VPS, observability that tells you what broke</li>
+<li><b>Shipping to production</b> - Docker, GitHub Actions CI/CD and scheduled jobs, deploys on Render, Vercel and Neon</li>
 <li><b>Typed front ends</b> - React + TypeScript with no escape hatches, accessible and responsive</li>
 </ul>
 
@@ -93,9 +93,7 @@ I care about typed interfaces, tests that actually run in CI, and services you c
 <p align="center">
 <img src="https://img.shields.io/badge/CI%2FCD-2496ED?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD"/>
 <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" alt="Render"/>
-<img src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry"/>
-<img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana"/>
-<img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"/>
+<img src="https://img.shields.io/badge/Neon-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon"/>
 </p>
 
 ---
@@ -104,13 +102,35 @@ I care about typed interfaces, tests that actually run in CI, and services you c
 
 ### 🛒 japanhands &nbsp;<img src="https://img.shields.io/badge/at%20Acciptra-private%20repo-6E7681?style=flat-square" alt="private"/>
 
-A full-stack e-commerce marketplace for Japanese products, split into three separately-addressable properties - a **buyer storefront**, a **seller dashboard** and an **admin panel** - each its own Vite app on its own subdomain, served through a shared reverse proxy. TypeScript front ends over a Python API, containerised with Docker Compose, with self-hosted object storage for media. Sole engineer on the build.
+A full-stack manga e-commerce marketplace, split into three separately-addressable properties - a **buyer storefront**, a **seller dashboard** and an **admin panel** - each on its own subdomain behind a shared reverse proxy and load balancer. TypeScript front ends over a FastAPI backend with PostgreSQL and Redis: role-based auth for customers, sellers and admins, a catalog with variants, search and filters, cart, checkout and orders. Containerised with Docker Compose, with self-hosted object storage for media. Sole engineer on the build; **now running on staging**.
 
 <p>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"/>
 <img src="https://img.shields.io/badge/Multi--tenant-6E7681?style=flat-square" alt="Multi-tenant"/>
+</p>
+
+### 📋 [ProcuraFlow](https://github.com/rahmanmostafijur/ProcuraFlow)
+
+B2B procurement and inventory platform for small and mid-sized businesses. Purchase orders run through a server-enforced state machine (draft → approved → ordered → received), every stock change is written to an append-only inventory ledger in the same transaction, and delivery performance is computed from real receiving data - all behind role-based access and a full audit trail.
+
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/RBAC-6E7681?style=flat-square" alt="RBAC"/>
+<img src="https://img.shields.io/badge/Audit%20trail-6E7681?style=flat-square" alt="Audit trail"/>
+</p>
+
+### 📚 [OceanBook](https://github.com/rahmanmostafijur/OceanBook)
+
+Bangla-first digital library and ebook platform with an SSC/HSC question bank for Bangladeshi students. Flutter mobile app (Bangla + English) and Flutter web admin over a FastAPI modular monolith with PostgreSQL, Redis and Celery.
+
+<p>
+<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" alt="Flutter"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white" alt="Celery"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 </p>
 
 ### 📦 [Solmira](https://github.com/rahmanmostafijur/solmira)
@@ -148,12 +168,13 @@ Real-time helpdesk: customers open tickets and chat live with agents over WebSoc
 
 ### 🎯 [Sanket](https://github.com/rahmanmostafijur/Sanket) &nbsp;<img src="https://img.shields.io/badge/status-in%20progress-FFA500?style=flat-square" alt="in progress"/>
 
-A job-market intelligence service: scheduled ingestion of job postings, LLM extraction into validated Pydantic schemas, and hybrid keyword + vector search over pgvector with async workers on Redis. *Architecture designed and documented; the ingestion pipeline is being built now.*
+A job-market intelligence service. **Ingestion is live:** a GitHub Actions schedule pulls postings from public job feeds every 6 hours into PostgreSQL on Neon, with a content-hash gate so duplicates never land. SQLAlchemy 2.0 models with Alembic migrations. *In progress:* LLM extraction into validated Pydantic schemas. *Next:* hybrid keyword + vector search over pgvector.
 
 <p>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+<img src="https://img.shields.io/badge/Neon%20Postgres-00E599?style=flat-square&logo=postgresql&logoColor=black" alt="Neon"/>
 <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="pgvector"/>
-<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
 ### ✅ [Task Manager](https://github.com/rahmanmostafijur/taskmanager)
@@ -197,7 +218,7 @@ Final-year IoT + ML project. An Arduino node with MQ-2, MQ-135 and LM35 sensors 
 Open to **frontend, backend and full-stack roles** (remote or on-site in Dhaka), plus selective contract work on Python APIs and React front ends. Always happy to talk about API design, Postgres, or getting things to production.
 
 <p align="center">
-<a href="mailto:mustafiz.emon194@gmail.com">
+<a href="mailto:mostafijrahman.swe@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a>
 <a href="https://mostafij.vercel.app">
